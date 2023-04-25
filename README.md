@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Joanna!
-- 📚 I'm a Freshman-Computer Science major at South Plains College in Levelland,TX.
+- 📚 I'm a Computer Science major at South Plains College in Levelland,TX.
 - ❓ I was a Communications major prior to making a change in my career path.
-- 👀 I’m interested in cybersecurity, data analytics, and programming!
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on any project using Python!
+- 👀 I’m interested in project management and coding!
+- 💞️ I’m looking to collaborate on any project, and learning new things!
 - 📫 How to reach me :
       
 
