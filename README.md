@@ -4,27 +4,29 @@
 
 - <b>Global Emissions Data Analysis</b>
   - [Jovian Notebook Link](https://jovian.ml/georgejoanna086/global-emmisions)
+ 
+<h3>👨‍💻 Python Projects:</h3>
+- <b> Fun Rock Paper Scissors Game</b>
+  - (https://github.com/Jouujo/rockpapersc.py/blob/main/rockpaper%20scissors)
+
+- <b> Python Turtle Game</b>
+  - [Pygame](https://github.com/Jouujo/Turtlegame)
+
+- <b> Countdown Program</b>
+  - [Countdown Program](https://github.com/Jouujo/Turtlegame)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>💪 Hackathon & Ideathon Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Oasis](https://devpost.com/software/oasis-163il5) - Steel City Codes Spring Hackathon |Best Overall|
+- [CS Connection](https://buffswtamu-my.sharepoint.com/:p:/g/personal/jgharrison1_buffs_wtamu_edu/EaAJGmng3wJLueGJqiRYuBUBQO8mIwuxTTzNKwH2owrNeQ?e=crsmPo)- West Texas A&M University Hackathon
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[Devpost](https://devpost.com/georgejoanna086?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[Linkedin](https://www.linkedin.com/in/joanna-chimalilo-766a15237/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
