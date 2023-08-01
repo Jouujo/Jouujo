@@ -4,7 +4,10 @@
 
 - <b>Global Emissions Data Analysis</b>
   - [Jovian Notebook Link](https://jovian.ml/georgejoanna086/global-emmisions)
- 
+
+- <b>Excel Dataset & Dashboard</b>
+  - [Excel Project Dataset - Joanna Chimalilo.xlsx](https://github.com/Jouujo/Jouujo/files/12232934/Excel.Project.Dataset.-.Joanna.Chimalilo.xlsx)
+
 <h3>👨‍💻 Python Projects:</h3>
 - <b> Fun Rock Paper Scissors Game</b>
   - (https://github.com/Jouujo/rockpapersc.py/blob/main/rockpaper%20scissors)
