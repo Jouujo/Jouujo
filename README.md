@@ -8,6 +8,9 @@
 - <b>Excel Dataset & Dashboard</b>
   - [Excel Project Dataset - Joanna Chimalilo.xlsx](https://github.com/Jouujo/Jouujo/files/12232934/Excel.Project.Dataset.-.Joanna.Chimalilo.xlsx)
 
+- <b>Tableau AirBnB Dashboard</b>
+  - [Tableau Dashboard](https://public.tableau.com/app/profile/joanna.chimalilo/viz/AirBnBAnalysis2016/Dashboard1?publish=yes)
+
 <h3>👨‍💻 Python Projects:</h3>
 - <b> Fun Rock Paper Scissors Game</b>
   - (https://github.com/Jouujo/rockpapersc.py/blob/main/rockpaper%20scissors)
