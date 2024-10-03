@@ -10,10 +10,14 @@
 
 - <b>Tableau AirBnB Dashboard</b>
   - [Tableau Dashboard](https://public.tableau.com/app/profile/joanna.chimalilo/viz/AirBnBAnalysis2016/Dashboard1?publish=yes)
+ 
+- <b>Gemini AI Insights Reviewer</b>
+  - [Google Colab Link](https://colab.research.google.com/drive/1TZpneOrrkyiRwEt9jv2wGi2lzRcWWOjX?usp=sharing)
+
+- <b>Beats by Dre Headphones (Exploratory Data Analysis) </b>
+  - [Google Colab Link](https://colab.research.google.com/drive/1xa8aZnK8TN7H8xAkBmjxktCW2UCKa7Na?usp=sharing)
 
 <h3>👨‍💻 Python Projects:</h3>
-- <b> Fun Rock Paper Scissors Game</b>
-  - (https://github.com/Jouujo/rockpapersc.py/blob/main/rockpaper%20scissors)
 
 - <b> Python Turtle Game</b>
   - [Pygame](https://github.com/Jouujo/Turtlegame)
@@ -29,7 +33,7 @@
 
 - [Oasis](https://devpost.com/software/oasis-163il5) - Steel City Codes Spring Hackathon |Best Overall|
 - [CS Connection](https://buffswtamu-my.sharepoint.com/:p:/g/personal/jgharrison1_buffs_wtamu_edu/EaAJGmng3wJLueGJqiRYuBUBQO8mIwuxTTzNKwH2owrNeQ?e=crsmPo)- West Texas A&M University Hackathon
-
+- [Interpreting Data of Exoplanet Transits](https://docs.google.com/presentation/d/10lYXpEAWDtxM70T4U27RWbBfX8BdIj8jTunFD2j2sGw/edit?usp=sharing)- - University of Maryland Research
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -37,13 +41,4 @@
 
 [Linkedin](https://www.linkedin.com/in/joanna-chimalilo-766a15237/)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
