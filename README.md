@@ -2,7 +2,7 @@
 
 I'm a Computer Science student with a passion for building impactful projects through software, data, and creativity. Whether it's analyzing real-world data or developing Python games and tools, I enjoy turning ideas into solutions.
 
-I'm currently seeking **Summer 2026 Software Engineering internships**!
+I'm currently seeking **Summer 2026 Internships**!
 
 ---
 
@@ -14,7 +14,7 @@ I'm currently seeking **Summer 2026 Software Engineering internships**!
 Designed and developed a fully responsive personal portfolio website using **HTML, CSS, and JavaScript**. Features include a custom JavaScript chatbot, smooth scroll navigation, pastel-themed UI, project showcases, and resume integration. Hosted on Vercel.
 - **[UChicago Trading Bot - Team Texas Tech](https://github.com/Jouujo/uchicago-tradingcompetitionbot.git)**  
 Developed a multi-strategy algorithmic trading bot in Python for the UChicago 2025 Trading Competition. Implemented smart limit/market order logic, dynamic position rebalancing, and real-time risk management using gRPC, Flask (Phoenixhood UI), Pandas, and protobuf. The bot ingests live market data and structured/unstructured news to optimize portfolio value across five assets, deployed on a cloud-hosted VM with live dashboard integration.
-- 
+- **[Time Variability in 3D Atmospheric GCM Models - UMD, GRAD-MAP](https://github.com/Jouujo/Time-Variability-in-Ultra-Hot-Jupiters)**
 
 
 
